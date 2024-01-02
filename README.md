@@ -1,3 +1,5 @@
+Description
+
 This webpage serves as a comprehensive platform for insightful data visualizations presented in graphical formats, enhancing the clarity of information comprehension. Employing React JS for front-end development, the website utilizes D3 to render dynamic and interactive charts, providing users with an engaging visual representation of complex datasets.
 
 The user-friendly interface incorporates a dedicated tab for data sources, implementing advanced filtering logic to streamline reference searches. This feature allows users to efficiently narrow down relevant sources based on specific criteria, facilitating a more targeted exploration of the provided information.
